@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samukeloh05
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java project.
+- 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me samukeloh05@gmail.com,
  contact number is 078 789 7443.
 
